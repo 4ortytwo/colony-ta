@@ -1,3 +1,6 @@
+# The one and only instruction to run locally
+Create a `.env.local` file and add any RPC node(Alchemy or Infura) url as `REACT_APP_PROVIDER`
+
 # Colony Coding Challenge Boostrap
 
 This repo was bootstrapped with [Create React App @ v5](https://github.com/facebook/create-react-app) but it purposely uses an older version of `react-scripts` which will install `webpack` version `4`.
