@@ -1,0 +1,14 @@
+.EventListItemCopy {
+  overflow: hidden;
+  text-align: left;
+  width: 100%;
+}
+.EventListItemCopy-primary {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 14px;
+}
+
+.EventListItemCopy-secondary {
+    font-size: 12px;
+}
